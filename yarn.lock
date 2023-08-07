@@ -23,9 +23,9 @@
     "chalk" "^2.0.0"
     "js-tokens" "^4.0.0"
 
-"@custom-mono/lib-a@^0.0.0", "@custom-mono/lib-a@file:/home/vupx/code/mono/packages/libs/lib-a":
+"@custom-mono/lib-a@^1.0.0", "@custom-mono/lib-a@file:/home/vupx/code/mono/packages/libs/lib-a":
   "resolved" "file:packages/libs/lib-a"
-  "version" "0.0.0"
+  "version" "1.0.0"
   dependencies:
     "esbuild" "^0.18.19"
 
@@ -35,6 +35,156 @@
   dependencies:
     "esbuild" "0.18.18"
 
+"@esbuild/android-arm@0.18.18":
+  "integrity" "sha512-oBymf7ZwplAawSxmiSlBCf+FMcY0f4bs5QP2jn43JKUf0M9DnrUTjqa5RvFPl1elw+sMfcpfBRPK+rb+E1q7zg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/android-arm@0.18.19":
+  "integrity" "sha512-1uOoDurJYh5MNqPqpj3l/TQCI1V25BXgChEldCB7D6iryBYqYKrbZIhYO5AI9fulf66sM8UJpc3UcCly2Tv28w=="
+  "resolved" "https://registry.npmjs.org/@esbuild/android-arm/-/android-arm-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/android-arm64@0.18.18":
+  "integrity" "sha512-dkAPYzRHq3dNXIzOyAknYOzsx8o3KWaNiuu56B2rP9IFPmFWMS58WQcTlUQi6iloku8ZyHHMluCe5sTWhKq/Yw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/android-arm64@0.18.19":
+  "integrity" "sha512-4+jkUFQxZkQfQOOxfGVZB38YUWHMJX2ihZwF+2nh8m7bHdWXpixiurgGRN3c/KMSwlltbYI0/i929jwBRMFzbA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/android-arm64/-/android-arm64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/android-x64@0.18.18":
+  "integrity" "sha512-r7/pVcrUQMYkjvtE/1/n6BxhWM+/9tvLxDG1ev1ce4z3YsqoxMK9bbOM6bFcj0BowMeGQvOZWcBV182lFFKmrw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/android-x64@0.18.19":
+  "integrity" "sha512-ae5sHYiP/Ogj2YNrLZbWkBmyHIDOhPgpkGvFnke7XFGQldBDWvc/AyYwSLpNuKw9UNkgnLlB/jPpnBmlF3G9Bg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/android-x64/-/android-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/darwin-arm64@0.18.18":
+  "integrity" "sha512-MSe2iV9MAH3wfP0g+vzN9bp36rtPPuCSk+bT5E2vv/d8krvW5uB/Pi/Q5+txUZuxsG3GcO8dhygjnFq0wJU9hQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/darwin-arm64@0.18.19":
+  "integrity" "sha512-HIpQvNQWFYROmWDANMRL+jZvvTQGOiTuwWBIuAsMaQrnStedM+nEKJBzKQ6bfT9RFKH2wZ+ej+DY7+9xHBTFPg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/darwin-x64@0.18.18":
+  "integrity" "sha512-ARFYISOWkaifjcr48YtO70gcDNeOf1H2RnmOj6ip3xHIj66f3dAbhcd5Nph5np6oHI7DhHIcr9MWO18RvUL1bw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/darwin-x64@0.18.19":
+  "integrity" "sha512-m6JdvXJQt0thNLIcWOeG079h2ivhYH4B5sVCgqb/B29zTcFd7EE8/J1nIUHhdtwGeItdUeqKaqqb4towwxvglQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/darwin-x64/-/darwin-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/freebsd-arm64@0.18.18":
+  "integrity" "sha512-BHnXmexzEWRU2ZySJosU0Ts0NRnJnNrMB6t4EiIaOSel73I8iLsNiTPLH0rJulAh19cYZutsB5XHK6N8fi5eMg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/freebsd-arm64@0.18.19":
+  "integrity" "sha512-G0p4EFMPZhGn/xVNspUyMQbORH3nlKTV0bFNHPIwLraBuAkTeMyxNviTe0ZXUbIXQrR1lrwniFjNFU4s+x7veQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/freebsd-arm64/-/freebsd-arm64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/freebsd-x64@0.18.18":
+  "integrity" "sha512-n823w35wm0ZOobbuE//0sJjuz1Qj619+AwjgOcAJMN2pomZhH9BONCtn+KlfrmM/NWZ+27yB/eGVFzUIWLeh3w=="
+  "resolved" "https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/freebsd-x64@0.18.19":
+  "integrity" "sha512-hBxgRlG42+W+j/1/cvlnSa+3+OBKeDCyO7OG2ICya1YJaSCYfSpuG30KfOnQHI7Ytgu4bRqCgrYXxQEzy0zM5Q=="
+  "resolved" "https://registry.npmjs.org/@esbuild/freebsd-x64/-/freebsd-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-arm@0.18.18":
+  "integrity" "sha512-Kck3jxPLQU4VeAGwe8Q4NU+IWIx+suULYOFUI9T0C2J1+UQlOHJ08ITN+MaJJ+2youzJOmKmcphH/t3SJxQ1Tw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-arm/-/linux-arm-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-arm@0.18.19":
+  "integrity" "sha512-qtWyoQskfJlb9MD45mvzCEKeO4uCnDZ7lPFeNqbfaaJHqBiH9qA5Vu2EuckqYZuFMJWy1l4dxTf9NOulCVfUjg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-arm/-/linux-arm-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-arm64@0.18.18":
+  "integrity" "sha512-zANxnwF0sCinDcAqoMohGoWBK9QaFJ65Vgh0ZE+RXtURaMwx+RfmfLElqtnn7X8OYNckMoIXSg7u+tZ3tqTlrA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-arm64@0.18.19":
+  "integrity" "sha512-X8g33tczY0GsJq3lhyBrjnFtaKjWVpp1gMq5IlF9BQJ3TUfSK74nQnz9mRIEejmcV+OIYn6bkOJeUaU1Knrljg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-arm64/-/linux-arm64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-ia32@0.18.18":
+  "integrity" "sha512-+VHz2sIRlY5u8IlaLJpdf5TL2kM76yx186pW7bpTB+vLWpzcFQVP04L842ZB2Ty13A1VXUvy3DbU1jV65P2skg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-ia32@0.18.19":
+  "integrity" "sha512-SAkRWJgb+KN+gOhmbiE6/wu23D6HRcGQi15cB13IVtBZZgXxygTV5GJlUAKLQ5Gcx0gtlmt+XIxEmSqA6sZTOw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-ia32/-/linux-ia32-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-loong64@0.18.18":
+  "integrity" "sha512-fXPEPdeGBvguo/1+Na8OIWz3667BN1cwbGtTEZWTd0qdyTsk5gGf9jVX8MblElbDb/Cpw6y5JiaQuL96YmvBwQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-loong64@0.18.19":
+  "integrity" "sha512-YLAslaO8NsB9UOxBchos82AOMRDbIAWChwDKfjlGrHSzS3v1kxce7dGlSTsrb0PJwo1KYccypN3VNjQVLtz7LA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-loong64/-/linux-loong64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-mips64el@0.18.18":
+  "integrity" "sha512-dLvRB87pIBIRnEIC32LIcgwK1JzlIuADIRjLKdUIpxauKwMuS/xMpN+cFl+0nN4RHNYOZ57DmXFFmQAcdlFOmw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-mips64el/-/linux-mips64el-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-mips64el@0.18.19":
+  "integrity" "sha512-vSYFtlYds/oTI8aflEP65xo3MXChMwBOG1eWPGGKs/ev9zkTeXVvciU+nifq8J1JYMz+eQ4J9JDN0O2RKF8+1Q=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-mips64el/-/linux-mips64el-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-ppc64@0.18.18":
+  "integrity" "sha512-fRChqIJZ7hLkXSKfBLYgsX9Ssb5OGCjk3dzCETF5QSS1qjTgayLv0ALUdJDB9QOh/nbWwp+qfLZU6md4XcjL7w=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-ppc64/-/linux-ppc64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-ppc64@0.18.19":
+  "integrity" "sha512-tgG41lRVwlzqO9tv9l7aXYVw35BxKXLtPam1qALScwSqPivI8hjkZLNH0deaaSCYCFT9cBIdB+hUjWFlFFLL9A=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-ppc64/-/linux-ppc64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-riscv64@0.18.18":
+  "integrity" "sha512-ALK/BT3u7Hoa/vHjow6W6+MKF0ohYcVcVA1EpskI4bkBPVuDLrUDqt2YFifg5UcZc8qup0CwQqWmFUd6VMNgaA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-riscv64/-/linux-riscv64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-riscv64@0.18.19":
+  "integrity" "sha512-EgBZFLoN1S5RuB4cCJI31pBPsjE1nZ+3+fHRjguq9Ibrzo29bOLSBcH1KZJvRNh5qtd+fcYIGiIUia8Jw5r1lQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-riscv64/-/linux-riscv64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/linux-s390x@0.18.18":
+  "integrity" "sha512-crT7jtOXd9iirY65B+mJQ6W0HWdNy8dtkZqKGWNcBnunpLcTCfne5y5bKic9bhyYzKpQEsO+C/VBPD8iF0RhRw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-s390x/-/linux-s390x-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/linux-s390x@0.18.19":
+  "integrity" "sha512-q1V1rtHRojAzjSigZEqrcLkpfh5K09ShCoIsdTakozVBnM5rgV58PLFticqDp5UJ9uE0HScov9QNbbl8HBo6QQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/linux-s390x/-/linux-s390x-0.18.19.tgz"
+  "version" "0.18.19"
+
 "@esbuild/linux-x64@0.18.18":
   "integrity" "sha512-/NSgghjBOW9ELqjXDYxOCCIsvQUZpvua1/6NdnA9Vnrp9UzEydyDdFXljUjMMS9p5KxMzbMO9frjHYGVHBfCHg=="
   "resolved" "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.18.18.tgz"
@@ -43,6 +193,66 @@
 "@esbuild/linux-x64@0.18.19":
   "integrity" "sha512-D0IiYjpZRXxGZLQfsydeAD7ZWqdGyFLBj5f2UshJpy09WPs3qizDCsEr8zyzcym6Woj/UI9ZzMIXwvoXVtyt0A=="
   "resolved" "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/netbsd-x64@0.18.18":
+  "integrity" "sha512-8Otf05Vx5sZjLLDulgr5QS5lsWXMplKZEyHMArH9/S4olLlhzmdhQBPhzhJTNwaL2FJNdWcUPNGAcoD5zDTfUA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/netbsd-x64@0.18.19":
+  "integrity" "sha512-3tt3SOS8L3D54R8oER41UdDshlBIAjYhdWRPiZCTZ1E41+shIZBpTjaW5UaN/jD1ENE/Ok5lkeqhoNMbxstyxw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/netbsd-x64/-/netbsd-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/openbsd-x64@0.18.18":
+  "integrity" "sha512-tFiFF4kT5L5qhVrWJUNxEXWvvX8nK/UX9ZrB7apuTwY3f6+Xy4aFMBPwAVrBYtBd5MOUuyOVHK6HBZCAHkwUlw=="
+  "resolved" "https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/openbsd-x64@0.18.19":
+  "integrity" "sha512-MxbhcuAYQPlfln1EMc4T26OUoeg/YQc6wNoEV8xvktDKZhLtBxjkoeESSo9BbPaGKhAPzusXYj5n8n5A8iZSrA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/openbsd-x64/-/openbsd-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/sunos-x64@0.18.18":
+  "integrity" "sha512-MPogVV8Bzh8os4OM+YDGGsSzCzmNRiyKGtHoJyZLtI4BMmd6EcxmGlcEGK1uM46h1BiOyi7Z7teUtzzQhvkC+w=="
+  "resolved" "https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/sunos-x64@0.18.19":
+  "integrity" "sha512-m0/UOq1wj25JpWqOJxoWBRM9VWc3c32xiNzd+ERlYstUZ6uwx5SZsQUtkiFHaYmcaoj+f6+Tfcl7atuAz3idwQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/sunos-x64/-/sunos-x64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/win32-arm64@0.18.18":
+  "integrity" "sha512-YKD6LF/XXY9REu+ZL5RAsusiG48n602qxsMVh/E8FFD9hp4OyTQaL9fpE1ovxwQXqFio+tT0ITUGjDSSSPN13w=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/win32-arm64@0.18.19":
+  "integrity" "sha512-L4vb6pcoB1cEcXUHU6EPnUhUc4+/tcz4OqlXTWPcSQWxegfmcOprhmIleKKwmMNQVc4wrx/+jB7tGkjjDmiupg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-arm64/-/win32-arm64-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/win32-ia32@0.18.18":
+  "integrity" "sha512-NjSBmBsyZBTsZB6ga6rA6PfG/RHnwruUz/9YEVXcm4STGauFWvhYhOMhEyw1yU5NVgYYm8CH5AltCm77TS21/Q=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/win32-ia32@0.18.19":
+  "integrity" "sha512-rQng7LXSKdrDlNDb7/v0fujob6X0GAazoK/IPd9C3oShr642ri8uIBkgM37/l8B3Rd5sBQcqUXoDdEy75XC/jg=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-ia32/-/win32-ia32-0.18.19.tgz"
+  "version" "0.18.19"
+
+"@esbuild/win32-x64@0.18.18":
+  "integrity" "sha512-eTSg/gC3p3tdjj4roDhe5xu94l1s2jMazP8u2FsYO8SEKvSpPOO71EucprDn/IuErDPvTFUhV9lTw5z5WJCRKQ=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.18.tgz"
+  "version" "0.18.18"
+
+"@esbuild/win32-x64@0.18.19":
+  "integrity" "sha512-z69jhyG20Gq4QL5JKPLqUT+eREuqnDAFItLbza4JCmpvUnIlY73YNjd5djlO7kBiiZnvTnJuAbOjIoZIOa1GjA=="
+  "resolved" "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.19.tgz"
   "version" "0.18.19"
 
 "@hutson/parse-repository-url@^3.0.0":
@@ -102,6 +312,26 @@
   "resolved" "https://registry.npmjs.org/@next/env/-/env-13.4.13.tgz"
   "version" "13.4.13"
 
+"@next/swc-darwin-arm64@13.4.13":
+  "integrity" "sha512-ZptVhHjzUuivnXMNCJ6lER33HN7lC+rZ01z+PM10Ows21NHFYMvGhi5iXkGtBDk6VmtzsbqnAjnx4Oz5um0FjA=="
+  "resolved" "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-13.4.13.tgz"
+  "version" "13.4.13"
+
+"@next/swc-darwin-x64@13.4.13":
+  "integrity" "sha512-t9nTiWCLApw8W4G1kqJyYP7y6/7lyal3PftmRturIxAIBlZss9wrtVN8nci50StDHmIlIDxfguYIEGVr9DbFTg=="
+  "resolved" "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-13.4.13.tgz"
+  "version" "13.4.13"
+
+"@next/swc-linux-arm64-gnu@13.4.13":
+  "integrity" "sha512-xEHUqC8eqR5DHe8SOmMnDU1K3ggrJ28uIKltrQAwqFSSSmzjnN/XMocZkcVhuncuxYrpbri0iMQstRyRVdQVWg=="
+  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-13.4.13.tgz"
+  "version" "13.4.13"
+
+"@next/swc-linux-arm64-musl@13.4.13":
+  "integrity" "sha512-sNf3MnLAm8rquSSAoeD9nVcdaDeRYOeey4stOWOyWIgbBDtP+C93amSgH/LPTDoUV7gNiU6f+ghepTjTjRgIUQ=="
+  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-13.4.13.tgz"
+  "version" "13.4.13"
+
 "@next/swc-linux-x64-gnu@13.4.13":
   "integrity" "sha512-WhcRaJJSHyx9OWmKjjz+OWHumiPZWRqmM/09Bt7Up4UqUJFFhGExeztR4trtv3rflvULatu9IH/nTV8fUUgaMA=="
   "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-13.4.13.tgz"
@@ -110,6 +340,21 @@
 "@next/swc-linux-x64-musl@13.4.13":
   "integrity" "sha512-+Y4LLhOWWZQIDKVwr2R17lq2KSN0F1c30QVgGIWfnjjHpH8nrIWHEndhqYU+iFuW8It78CiJjQKTw4f51HD7jA=="
   "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-13.4.13.tgz"
+  "version" "13.4.13"
+
+"@next/swc-win32-arm64-msvc@13.4.13":
+  "integrity" "sha512-rWurdOR20uxjfqd1X9vDAgv0Jb26KjyL8akF9CBeFqX8rVaBAnW/Wf6A2gYEwyYY4Bai3T7p1kro6DFrsvBAAw=="
+  "resolved" "https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-13.4.13.tgz"
+  "version" "13.4.13"
+
+"@next/swc-win32-ia32-msvc@13.4.13":
+  "integrity" "sha512-E8bSPwRuY5ibJ3CzLQmJEt8qaWrPYuUTwnrwygPUEWoLzD5YRx9SD37oXRdU81TgGwDzCxpl7z5Nqlfk50xAog=="
+  "resolved" "https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-13.4.13.tgz"
+  "version" "13.4.13"
+
+"@next/swc-win32-x64-msvc@13.4.13":
+  "integrity" "sha512-4KlyC6jWRubPnppgfYsNTPeWfGCxtWLh5vaOAW/kdzAk9widqho8Qb5S4K2vHmal1tsURi7Onk2MMCV1phvyqA=="
+  "resolved" "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-13.4.13.tgz"
   "version" "13.4.13"
 
 "@nodelib/fs.scandir@2.1.5":
@@ -646,9 +891,6 @@
     "buffer" "^5.5.0"
     "inherits" "^2.0.4"
     "readable-stream" "^3.4.0"
-
-"bluebird@3.x":
-  "version" "3.7.2"
 
 "brace-expansion@^1.1.7":
   "integrity" "sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA=="
@@ -2173,11 +2415,6 @@
     "write-pkg" "4.0.0"
     "yargs" "16.2.0"
     "yargs-parser" "20.2.4"
-
-"lib-a@0.x":
-  "version" "0.0.4"
-  dependencies:
-    "bluebird" "3.x"
 
 "libnpmaccess@7.0.2":
   "integrity" "sha512-vHBVMw1JFMTgEk15zRsJuSAg7QtGGHpUSEfnbcRL1/gTBag9iEfJbyjpDmdJmwMhvpoLoNBtdAUCdGnaP32hhw=="
