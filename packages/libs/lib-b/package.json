@@ -1,0 +1,23 @@
+{
+  "name": "@custom-mono/lib-b",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "vuphan365 <vuphan365@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/esm/index.js",
+  "directories": {
+    "dist": "dist"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/lib-a.test.js",
+    "dev": "esbuild ./lib/index.ts --bundle --outdir=dist/esm  --external:react --external:react-dom --external:use-sync-external-store --format=esm --platform=browser --sourcemap --watch",
+    "build": "rm -rf dist && esbuild ./lib/index.ts  --bundle --outdir=dist/esm --external:react --external:react-dom --external:use-sync-external-store --format=esm --minify --platform=browser --analyze"
+  },
+  "dependencies": {
+    "esbuild": "0.18.18"
+  }
+}
