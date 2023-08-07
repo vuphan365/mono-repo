@@ -1,6 +1,6 @@
 const libsA = () => {
   console.log('libsA');
-  return 'This is second version of A haha';
+  return 'This is fouth version';
 };
 
 export default libsA;

@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import styles from './page.module.css'
+//@ts-ignore
 import a from '@custom-mono/lib-a'
+//@ts-ignore
 import b from '@custom-mono/lib-b'
 
 export default function Home() {
