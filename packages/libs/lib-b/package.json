@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "esbuild": "0.18.18"
-  }
+  },
+  "gitHead": "cf3cdee7bbce3bda10af3c68e4a9beaa2c81ba7a"
 }
